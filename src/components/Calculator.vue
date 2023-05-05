@@ -30,9 +30,6 @@
 <script lang="ts">
 export default {
   name: "Calculator",
-  props: {
-    msg: String,
-  },
   data() {
     return {
       calculatorValue: "",
