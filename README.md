@@ -1,4 +1,4 @@
-# Vue 3 + TypeScript + Vite + Bootstrap
+# Vue Calculator
 
 npm: ` npm run dev `
 
